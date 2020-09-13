@@ -24,3 +24,18 @@
  - && => AND => E
  - || => OR => OU
  - ! => NOT => NÃO
+ 
+  
+
+##  [Valores truth e falsy](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/03-truth-falsy.js)
+
+  
+
+## Valores falsy
+ 
+  
+
+ - 0
+ - '' "" ``
+ - null / undefined
+ - NaN
