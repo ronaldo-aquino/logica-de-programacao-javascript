@@ -1,18 +1,26 @@
-# Assuntos Abordados:
+#  Assuntos Abordados:
 
-## [Operadores de comparação](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/01-operadores-de-comparacoes.js)
+  
 
-> Maior que
->= Maior igual
-< Menor que
-<= Menor igual
-== Igualdade
-=== Igualdade estrita
-!= Diferente
-!== Diferente estrito
+##  [Operadores de comparação](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/01-operadores-de-comparacoes.js)
 
-## [Operadores de comparação](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/02-operadores-logicos.js)
+  
 
-&& => AND => E
-|| => OR => OU
-! => NOT =>   NÃO
+ -     >  Maior que
+ -     >= Maior igual
+ -     < Menor que
+ -     <= Menor igual
+ -     == Igualdade
+ -     === Igualdade estrita
+ -     != Diferente
+ -     !== Diferente estrito
+
+  
+
+##  [Operadores de comparação](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/02-operadores-logicos.js)
+
+  
+
+ - && => AND => E
+ - || => OR => OU
+ - ! => NOT => NÃO
