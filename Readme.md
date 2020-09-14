@@ -39,3 +39,14 @@
  - '' "" ``
  - null / undefined
  - NaN
+  
+  
+
+##  [Is else e else if](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/04-if-else.js)
+ 
+  
+
+ - O if pode ser usado sozinho
+ - Sempre que utilizar a palavra else, você precisa ter um if antes
+ - O else if pode ser utilizado inúmeras vezes
+ - Só pode ter um else
