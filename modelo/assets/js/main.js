@@ -1,0 +1,1 @@
+console.log('Tudo funcionando, o javascript foi adicionado corretamente')
