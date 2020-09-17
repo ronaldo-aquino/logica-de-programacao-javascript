@@ -50,3 +50,11 @@
  - Sempre que utilizar a palavra else, você precisa ter um if antes
  - O else if pode ser utilizado inúmeras vezes
  - Só pode ter um else
+   
+  
+
+##  [Desafio: Criando uma calculadora de IMC](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/tree/master/exercicios-01)
+
+## Tela inicial: Demonstração.
+
+<a href="https://imgur.com/a/o8mM0vd"><img src="https://i.imgur.com/W6E07sz.png" title="source: imgur.com" /></a>
