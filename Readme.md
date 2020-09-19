@@ -58,3 +58,13 @@
 ## Tela inicial: Demonstração.
 
 <a href="https://imgur.com/a/o8mM0vd"><img src="https://i.imgur.com/W6E07sz.png" title="source: imgur.com" /></a>
+  
+  
+
+##  [Operador Ternário](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/06-ternario.js)
+ 
+  
+
+ - ? representa o valor verdadeiro.
+ - : representa o valor falso.
+ - É um if e else reduzido.
