@@ -77,3 +77,12 @@
 
  - Date é uma função construtora nativa do javascript.
  - Serve para trabalhar com datas.
+    
+  
+
+##  [Switch Case](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/08-switch.js)
+ 
+  
+
+ - Switch case é uma forma estruturada para agrupar vários if e else.
+ - Se precisar fazer bastante comparações é mais indicado usar o Switch case.
