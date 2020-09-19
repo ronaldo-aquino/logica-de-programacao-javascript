@@ -68,3 +68,12 @@
  - ? representa o valor verdadeiro.
  - : representa o valor falso.
  - É um if e else reduzido.
+   
+  
+
+##  [Objeto Date](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/07-date.js)
+ 
+  
+
+ - Date é uma função construtora nativa do javascript.
+ - Serve para trabalhar com datas.
