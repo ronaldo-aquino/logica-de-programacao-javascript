@@ -86,3 +86,7 @@
 
  - Switch case é uma forma estruturada para agrupar vários if e else.
  - Se precisar fazer bastante comparações é mais indicado usar o Switch case.
+    
+  
+
+##  [Exercícios com data](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/tree/master/exercicios-02)
