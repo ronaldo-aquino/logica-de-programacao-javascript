@@ -90,3 +90,12 @@
   
 
 ##  [Exercícios com data](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/tree/master/exercicios-02)
+    
+  
+
+##  [Diferenças entre var e let](https://github.com/ronaldo-aquino/logica-de-programacao-javascript/blob/master/09-dif-entre-var-e-let.js)
+ 
+  
+
+ - Let tem escopo de bloco { ...bloco }
+ - Var só tem escopo de função
